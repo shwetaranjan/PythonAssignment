@@ -3,5 +3,5 @@
 #### Splitting of the file is done using split.py File.
 
 ### Libraries Used:
-  #### 1. Pandas Library for splittinf the file.
+  #### 1. Pandas Library for splitting the file.
   #### 2. Faker Library for creation of Fake csv file.
